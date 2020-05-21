@@ -1,0 +1,45 @@
+.header {
+  text-align: center;
+}
+
+.cardContainer {
+  /* background-color: black; */
+  padding: 30px;
+  /* border-radius: 10px; */
+  /* background-color: grey; */
+  text-align: center;
+  max-width: 30rem;
+  margin: 0 auto;
+}
+
+.newUserForm {
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+
+.center {
+  margin: 0 auto;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.userInput {
+  /* text-align: center; */
+  /* height: 20px;
+  border-radius: 5px;
+  margin: 2px; */
+}
+
+button {
+  margin-top: 15px;
+}
+
+.mt-1 {
+  margin-top: 1rem;
+}
